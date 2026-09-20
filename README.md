@@ -1,2 +1,3 @@
 # aapna-repo
-this is gir repo
+this is git repo
+author - divyaraj
